@@ -16,4 +16,4 @@ clone the git repo into the desired folder using the command ``git clone https:/
 
 >Note: Since the docker image has already been built the following step is optional
 
-Step 2 (OPTIONAL):
+###### Step 2 (OPTIONAL):
