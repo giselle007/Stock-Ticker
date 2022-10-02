@@ -18,12 +18,14 @@ a. clone the git repo into the desired folder using the command ``git clone http
 >Note: Since the docker image has already been built the following step is optional
 
 ###### Step 2 (OPTIONAL): Build local docker file
+<ol>
 a. Open your command window/cli termal
 b. Change into the Stock-Ticker directory with the command ``cd Stock-Ticker``
 c. Build a local docker file using the docker file in this repo by running the following command ``docker build -t <IMAGE_NAME>:<IMAGE_VERSION> .``
 d. Update the pod.yaml file line 11 and update the image to your local image ``image: <IMAGE_NAME>:<IMAGE_VERSION>``
 f. Continue to step 2 deploy
-
+<ol>
+  
 ##### Step 2: Deploy
 a. Open your command window/cli termal
 b. Change into the Stock-Ticker directory with the command ``cd Stock-Ticker``
