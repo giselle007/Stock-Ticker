@@ -2,7 +2,10 @@
 This web app will display the closing price for the selected day and stock symbol. 
 
 
-### To run this program you must have the following requirements
+### Prerequisites to run this webapp you must have the following requirements
 - Kubernetes
 - Docker
 - Python
+
+### Instructions to deploy the stock-ticker webapp
+##### Step 1.
