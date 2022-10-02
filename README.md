@@ -11,7 +11,7 @@ This web app will display the closing price for the selected day and stock symbo
 ### Instructions to deploy the stock-ticker webapp
 ##### Step 1: Clone Repo
 <ol>
-<li>clone the git repo into the desired folder using the command ``git clone https://github.com/giselle007/Stock-Ticker.git``</li>
+<li>clone the git repo into the desired folder using the command <code>git clone https://github.com/giselle007/Stock-Ticker.git</code></li>
 </ol>
 
 ##### Step 2: Build and Deploy
