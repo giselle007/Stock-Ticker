@@ -8,4 +8,6 @@ This web app will display the closing price for the selected day and stock symbo
 - Python
 
 ### Instructions to deploy the stock-ticker webapp
-##### Step 1.
+##### Step 1
+
+clone the git repo into the desired folder using the command `` git clone https://github.com/giselle007/Stock-Ticker.git``
