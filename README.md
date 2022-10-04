@@ -22,7 +22,7 @@ This web app will display the closing price for the selected day and stock symbo
 <ol>
 <li>Open your command window/cli termal</li>
 <li>Change into the Stock-Ticker directory with the command <code>cd Stock-Ticker</code></li>
-<li>Build a local docker file using the docker file in this repo by running the following command <code>docker build -t <IMAGE_NAME>:<IMAGE_VERSION> .</code></li>
+<li>Build a local docker file using the docker file in this repo by running the following command <code>docker build -t [IMAGE_NAME]:[IMAGE_VERSION] .</code></li>
 <li>Update the pod.yaml file line 11 and update the image to your local image <code>image: <IMAGE_NAME>:<IMAGE_VERSION></code></li>
 <li>Continue to step 2 deploy</li>
 </ol>
